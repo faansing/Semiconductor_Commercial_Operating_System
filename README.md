@@ -1,4 +1,5 @@
 # Semiconductor Commercial Operating System
+*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1eFP1X6umVf_GXeCrjGEyRW-Y96LG1LuF/view?usp=sharing)*
 
 
 ## **5 Key Takeaways**
